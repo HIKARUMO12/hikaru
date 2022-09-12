@@ -1,5 +1,6 @@
 import Header from './header';
 import Main from './main';
+import TestInput from './testinput';
 
 function Components() {
 
@@ -15,6 +16,7 @@ function Components() {
         <Header/>
       
       <Main/>
+      <TestInput />
     </>
   );
 }
